@@ -23,4 +23,3 @@ root@angga1337/home/angga1337/~# lolifetch
 ⣿⣦⡀⣿⣿⣷⣶⣬⣍⣛⣛⣛⡛⠿⠿⠿⠛⠛⢛⣛⣉⣭⣤⣂⢜⠕⢑⣡⣴⣿
 
 ```
-![alt text](https://c.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif)
