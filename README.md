@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px">, I'm Herlangga Maulani </h1>
-<h3 align="center">A passionate Computer Science Engineering student from Italy, currently in France </h3>
+<h3 align="center">A Student of computer engineering vocational school from Indonesia, Bandung</h3>
 
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=anggamaulani&style=square" alt="anggamaulani" />
