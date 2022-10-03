@@ -70,4 +70,3 @@
 [instagram]: https://instagram.com/__mpronesti
 [linkedin]: https://www.linkedin.com/in/massimiliano-pronesti/
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-ty
