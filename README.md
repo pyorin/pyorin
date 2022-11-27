@@ -21,6 +21,8 @@
     </a>
     <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="django" width="40" height="40"/>
     </a>
+    <a href="https://requests.readthedocs.io/en/latest/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Requests_Python_Logo.png" alt="css" width="40" height="40"/>
+    </a>
     <a href="https://www.tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/tailwind.svg" alt="tailwindcss" width="40" height="40"/>
     </a>
     <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/mysql.svg" alt="mysql" width="40" height="40"/>
