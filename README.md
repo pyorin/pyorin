@@ -38,7 +38,4 @@
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/>
     </a>
     <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/2044px-Vimlogo.svg.png" alt="vim" width="40" height="40"/>
-    </a>
-    <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://vitejs.dev/logo-with-shadow.png" alt="vite" width="40" height="40"/>
-    </a>
 </p>
