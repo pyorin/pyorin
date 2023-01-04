@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Angga</h1>
 <h3 align="center">A student.</h3>
+<br>
+Currently learning: javascript, react, express
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
