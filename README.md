@@ -16,9 +16,9 @@ Currently learning: javascript, react, express
     </a>
     <a href="https://www.reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/reactjs.svg" alt="reactjs" width="40" height="40"/>
     </a>
-     <a href="https://http://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/BackendDevelopment/express.svg" alt="expressjs" width="40" height="40"/>
+     <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/BackendDevelopment/express.svg" alt="expressjs" width="40" height="40"/>
     </a>
-         <a href="https://http://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/BackendDevelopment/nodejs.svg" alt="nodejs" width="40" height="40"/>
+         <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/BackendDevelopment/nodejs.svg" alt="nodejs" width="40" height="40"/>
     </a>
     <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
     </a>
